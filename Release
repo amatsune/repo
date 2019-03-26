@@ -1,0 +1,8 @@
+Origin: Amatsune
+Label: Amatsune's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Amatsune's Repo, Beautiful and Broken
